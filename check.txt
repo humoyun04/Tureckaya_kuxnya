@@ -1,0 +1,9 @@
+Joy: 34,
+Ism: Oleg,
+Taom: Midii - Narx: $4,
+Salat: Sarma - Narx: $5,
+Ichimlik: Buza ichimligi - Narx: $2,
+Desert: Kunefe - Narx: $5.
+
+Mr Oleg sizdan umumiy xisob = $16 bo'ldi.
+
